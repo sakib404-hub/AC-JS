@@ -2,6 +2,7 @@
 //Here position , index matters the most though the indexing method we can retrive any data we need
 //Numerous elements are separated by comma
 //Property is the thing that does something but value is the thing that we assign
+//ARRAY IS MUTABLE
 
 let marks = [60, 70, 90, 76, 94, 76];
 console.log(marks);
